@@ -7,4 +7,4 @@ This folder contains the algorithms test 1.1 & 1.2.
 This folder contains the algorithm for scenario 2 and TurnSensor.cpp & TurnSensor.h is files that helps the zumo turn the right amount.
 
 ### Scenario 3 folder:
-This folder contains the algorithms test 3.1 og 3.2.
+This folder contains the algorithms test 3.1 & 3.2.
